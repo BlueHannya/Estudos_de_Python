@@ -1,13 +1,13 @@
 # Estudos de Python
 
-## Sobre o Projeto:
+## 🐍 Sobre o Projeto
 
 Iremos fortalecer a base de Python com exercicios desde os mais simples até alguns mais intermediários,
 o intuito é ter uma curva de desenvolvimento na linguagem para poder trilhar algum caminho especifico
 depois como: machine learning, cientista de dados, desenvolvedor mobile, web, etc.
 Com a base fortalecida, terá mais experiencia e conhecimento solido para prosseguir em alguma das especialidades.
 
-## 📚 Contéudo dos Estudos:
+## 📚 Contéudo dos Estudos
 
 Esse conteudo irá te ajudar no seu progresso para entender as dinamicas da linguagem
 
@@ -28,7 +28,7 @@ Esse conteudo irá te ajudar no seu progresso para entender as dinamicas da ling
 > assim entenderá a dinamica que uma empresa usa, e interface de desenvolvimento
 
 
-## ⌛ Contéudo dos Exercicios:
+## ⌛ Contéudo dos Exercicios
 
 As listas do site PuthyonBrasil irá te ajudar a por em prática o que você for aprendendo
 
@@ -50,7 +50,7 @@ As listas do site PuthyonBrasil irá te ajudar a por em prática o que você for
 > e resolução de problemas.
 > Não se esqueça a jornada é mais importante que o seu fim...
 
-## 🌐 Links Importantes:
+## 🌐 Links Importantes
 
 Links para fazer downloads, documentação e lista de exercicios
 
