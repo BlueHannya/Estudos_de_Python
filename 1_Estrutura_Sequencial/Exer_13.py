@@ -3,8 +3,8 @@ peso ideal, utilizando as seguintes
 fórmulas: Para homens: (72.7*h) - 58
           Para mulheres: (62.1*h) - 44.7"""
 
-genero = int(input("""Você se identifica como genero masculino ou feminino? Pressione
-                   1 (para homem), ou 2 (para mulher)."""))
+genero = int(input("""\nVocê se identifica como genero masculino ou feminino? Pressione
+1 (para homem), ou 2 (para mulher): """))
 altura = float(input("\nInforme sua altura: "))
 peso = float(input("\nInforme seu peso: "))
 
@@ -22,4 +22,4 @@ elif peso == p_i:
     print(f"\nVocê está no peso ideal, ele seria {p_i:.2f}\n")
 
 else:
-    print(f"\nVocê está acima do peso ideal, ele seria {p_i:.2f}\n")
+    print(f"\nVocê está acima do peso ideal, ele seria {p_i:.2f}kg\n")
